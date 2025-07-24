@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hola, soy Juan Castañeda
 
-<!--
-**JuanCasmerak/JuanCasmerak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy **Ingeniero Civil** y actualmente estudiante de **Ingeniería de Software**. Me especializo en el desarrollo de aplicaciones y herramientas técnicas en **Python** aplicadas a la **ingeniería estructural**, el **BIM**, y la automatización de procesos constructivos.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologías que uso
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Lenguajes**: Python, JavaScript, HTML/CSS
+- **Frameworks**: Flask, Django, FastAPI
+- **Herramientas técnicas**: NumPy, Matplotlib, Pandas, ETABS API, AutoCAD Automation
+- **Versionamiento**: Git + GitHub
+- **Visualización técnica**: Markdown, LaTeX, Jupyter Notebooks
+
+### 🎯 Enfoque profesional
+
+Mi enfoque es crear soluciones digitales para mejorar la productividad, el modelado estructural, y la toma de decisiones técnicas mediante software desarrollado a medida.
+
+### 📂 Proyectos destacados
+
+- 🔧 Automatizador de cálculos estructurales con Python + LaTeX
+- 🧱 App de diseño para albañilería confinada (en desarrollo)
+- 📊 Visualizador de cargas vivas y muertas con interfaz web
+
+---
+
+## 📬 Contacto
+
+- LinkedIn: [linkedin.com/in/juan-castaneda](#)
+- Correo: juan.castaneda@email.com
