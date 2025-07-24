@@ -24,4 +24,4 @@ Mi enfoque es crear soluciones digitales para mejorar la productividad, el model
 
 ## 📬 Contacto
 
-- LinkedIn: [https://www.linkedin.com/in/juan-casta%C3%B1eda-colqui-7660742ba/](#)
+- LinkedIn: [linkedin.com/in/juan-castaneda](https://www.linkedin.com/in/juan-casta%C3%B1eda-colqui-7660742ba/)
